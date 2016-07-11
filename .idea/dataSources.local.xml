@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - osbb" uuid="b7c9bbec-1a35-4b03-8c81-9accf24e3624">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>osbb.*</schema-pattern>
+      <default-schemas>osbb.*</default-schemas>
+    </data-source>
+  </component>
+</project>
